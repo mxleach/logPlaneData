@@ -24,4 +24,4 @@
 
 Thanks for checking out this repo!
 
-For any feedback or issues, please open an issue in the GitHub repository! 
+For any feedback or issues, please open an issue in the GitHub repository! Feel free to Fork and PR to contribute!
